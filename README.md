@@ -1,6 +1,6 @@
 # Anna-Mariia Baziruvikha
 
-Python backend developer with React and React-Native experience, good communications skills, and a passion for technology.
+Backend developer with good communication skills and a passion for technology.
 
 📫 abaziruwiha@gmail.com
 
@@ -9,6 +9,12 @@ Python backend developer with React and React-Native experience, good communicat
 ---
 
 # 👩🏽‍💻 Work Experience
+
+## Software Engineer I at [Booking.com](https://www.booking.com)
+
+*June 2024 - Now*
+
+**Technologies used:** Perl, Java
 
 ## Backend developer at [FeelRobotics](https://www.feelrobotics.com/)
 
